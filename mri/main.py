@@ -100,16 +100,16 @@ try:
                 'DISCOUNT': discount
             })
 
-        # Запись итоговой строки в CSV
-        writer.writerow({
-            'BILL_ID': '',
-            'DATE': '',
-            'SERVICE_CODE': '',
-            'SERVICE_NAME': 'ИТОГО:',
-            'COUNT': total_count,
-            'PRICE': total_price,
-            'DISCOUNT': ''
-        })
+        # # Запись итоговой строки в CSV
+        # writer.writerow({
+        #     'BILL_ID': '',
+        #     'DATE': '',
+        #     'SERVICE_CODE': '',
+        #     'SERVICE_NAME': 'ИТОГО:',
+        #     'COUNT': total_count,
+        #     'PRICE': total_price,
+        #     'DISCOUNT': ''
+        # })
 
     # Вывод итоговой строки в консоль
     print("-" * 100)
