@@ -61,7 +61,7 @@ try:
 
     # Сохранение в CSV файл
     with open(full_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
-        fieldnames = ['BILL_ID', 'DATE', 'SERVICE_CODE', 'SERVICE_PRICE']
+        fieldnames = ['BILL_ID', 'MRI_DATE', 'SERVICE_CODE', 'SERVICE_PRICE']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
 
         # Запись заголовка
@@ -69,7 +69,7 @@ try:
 
         print("\nРезультаты запроса:")
         print("{:<10} {:<12} {:<15} {:<30} {:<10} {:<10} {:<10}".format(
-            "BILL_ID", "DATE", "SERVICE_CODE", "SERVICE_NAME", "COUNT", "PRICE", "DISCOUNT"))
+            "BILL_ID", "MRI_DATE", "SERVICE_CODE", "SERVICE_NAME", "COUNT", "PRICE", "DISCOUNT"))
         print("-" * 100)
 
         for row in rows:
@@ -92,7 +92,7 @@ try:
             # Запись строки в CSV
             writer.writerow({
                 'BILL_ID': bill_id,
-                'DATE': date,
+                'MRI_DATE': date,
                 'SERVICE_CODE': service_code,
                 'SERVICE_PRICE': price,
             })
