@@ -61,7 +61,7 @@ try:
 
     # Сохранение в CSV файл
     with open(full_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
-        fieldnames = ['BILL_ID', 'DATE', 'SERVICE_CODE', 'SERVICE_NAME', 'COUNT', 'PRICE', 'DISCOUNT']
+        fieldnames = ['BILL_ID', 'DATE', 'SERVICE_CODE', 'SERVICE_PRICE']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
 
         # Запись заголовка
@@ -94,10 +94,7 @@ try:
                 'BILL_ID': bill_id,
                 'DATE': date,
                 'SERVICE_CODE': service_code,
-                'SERVICE_NAME': service_name,
-                'COUNT': count,
-                'PRICE': price,
-                'DISCOUNT': discount
+                'SERVICE_PRICE': price,
             })
 
         # # Запись итоговой строки в CSV
