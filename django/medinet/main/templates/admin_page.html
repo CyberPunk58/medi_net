@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block title %}Административная страница{% endblock %}
+
+{% block content %}
+<h1>Административная страница</h1>
+<p>Эта страница доступна только пользователям с правами администратора.</p>
+
+<h2>Создать нового пользователя</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <div>
+        <label>
+            <input type="checkbox" name="make_admin">
+            Сделать администратором
+        </label>
+    </div>
+    <button type="submit">Создать пользователя</button>
+</form>
+
+<h2>Список пользователей</h2>
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Имя пользователя</th>
+        <th>Email</th>
+        <th>Дата регистрации</th>
+        <th>Администратор</th>
+    </tr>
+    {% for user in users %}
+    <tr>
+        <td>{{ user.username }}</td>
+        <td>{{ user.email }}</td>
+        <td>{{ user.date_joined|date:"d.m.Y H:i" }}</td>
+        <td>
+            {% if user in admin_group.user_set.all %}
+            ✓
+            {% else %}
+            ✗
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

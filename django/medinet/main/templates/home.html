@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}Главная страница{% endblock %}
+
+{% block content %}
+<h1>Добро пожаловать на сайт!</h1>
+<p>Это главная страница сайта.</p>
+{% if not user.is_authenticated %}
+<p>Пожалуйста, <a href="{% url 'login' %}">войдите</a> для доступа к административной странице.</p>
+{% endif %}
+{% endblock %}
