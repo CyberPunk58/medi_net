@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}Мой сайт{% endblock %}</title>
     <style>
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -38,22 +39,43 @@
             color: #721c24;
             border: 1px solid #f5c6cb;
         }
+        /* Добавьте в стили */
+    .logout-btn {
+        background: none;
+        border: none;
+        color: white;
+        cursor: pointer;
+        text-decoration: underline;
+        font-size: inherit;
+        font-family: inherit;
+        padding: 0;
+        margin: 0;
+    }
+    .logout-btn:hover {
+        text-decoration: none;
+    }
     </style>
 </head>
 <body>
     <div class="navbar">
-        <a href="{% url 'home' %}">Главная</a>
-        <a href="{% url 'public_page' %}">Публичная страница</a>
-        {% if user.is_authenticated %}
-            {% if perms.main.can_view_admin_page %}
-                <a href="{% url 'admin_page' %}">Админка</a>
-            {% endif %}
-            <span style="color: white;">Привет, {{ user.username }}!</span>
-            <a href="{% url 'logout' %}">Выйти</a>
-        {% else %}
-            <a href="{% url 'login' %}">Войти</a>
+    <a href="{% url 'home' %}">Главная</a>
+    <a href="{% url 'public_page' %}">Публичная страница</a>
+    {% if user.is_authenticated %}
+        {% if user.is_staff %}
+            <a href="{% url 'admin_page' %}">Админка</a>
         {% endif %}
-    </div>
+        <span style="color: white;">Привет, {{ user.username }}!</span>
+        <!-- Заменяем ссылку на форму -->
+        <form action="{% url 'logout' %}" method="post" style="display: inline;">
+            {% csrf_token %}
+            <button type="submit" style="background: none; border: none; color: white; cursor: pointer; text-decoration: underline; font-size: inherit;">
+                Выйти
+            </button>
+        </form>
+    {% else %}
+        <a href="{% url 'login' %}">Войти</a>
+    {% endif %}
+</div>
 
     {% if messages %}
     <div class="messages">
