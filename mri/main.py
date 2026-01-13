@@ -1,6 +1,6 @@
 import pyodbc
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 
 # Параметры подключения
@@ -17,7 +17,10 @@ try:
 
     cursor = conn.cursor()
 
-    query = """
+    # Получение вчерашней даты в формате YYYY-MM-DD
+    yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+
+    query = f"""
     SELECT 
         FM_BILL.FM_BILL_ID,
         CONVERT(VARCHAR(10), FM_BILL.BILL_DATE, 120) AS BILL_DATE,
@@ -34,10 +37,12 @@ try:
         FM_SERV ON FM_SERV.FM_SERV_ID = FM_BILLDET.FM_SERV_ID
     WHERE 
         FM_BILL.FM_ORG_ID = 1
-        AND FM_BILL.BILL_DATE = '2025-12-29'
+        AND FM_BILL.BILL_DATE = '{yesterday}'
         AND FM_SERV.CODE LIKE '18_____'
         AND FM_BILLDET.CANCEL =0
     """
+
+    print(f"Выполняется запрос за дату: {yesterday}")
 
     cursor.execute(query)
     rows = cursor.fetchall()
@@ -56,7 +61,8 @@ try:
     os.makedirs(save_dir, exist_ok=True)
 
     # Полный путь к файлу
-    filename = f"report_{timestamp}.csv"
+    #filename = f"report_{timestamp}.csv"
+    filename = f"report.csv"
     full_path = os.path.join(save_dir, filename)
 
     # Сохранение в CSV файл
@@ -96,17 +102,6 @@ try:
                 'SERVICE_CODE': service_code,
                 'SERVICE_PRICE': price,
             })
-
-        # # Запись итоговой строки в CSV
-        # writer.writerow({
-        #     'BILL_ID': '',
-        #     'DATE': '',
-        #     'SERVICE_CODE': '',
-        #     'SERVICE_NAME': 'ИТОГО:',
-        #     'COUNT': total_count,
-        #     'PRICE': total_price,
-        #     'DISCOUNT': ''
-        # })
 
     # Вывод итоговой строки в консоль
     print("-" * 100)
