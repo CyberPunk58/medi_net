@@ -52,7 +52,7 @@ try:
     total_price = 0.0
 
     # Создание имени файла с временной меткой
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S") #Раньше использовалось для создания файла, пока не нужно
 
     # Определение пути для сохранения файла
     save_dir = r'D:\Pavel\medi_net\temp\mri'
