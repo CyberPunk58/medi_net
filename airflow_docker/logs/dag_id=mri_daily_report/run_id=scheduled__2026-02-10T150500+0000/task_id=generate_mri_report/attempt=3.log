@@ -1,0 +1,40 @@
+[2026-02-12T12:14:21.486+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-02-12T12:14:21.518+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: mri_daily_report.generate_mri_report scheduled__2026-02-10T15:05:00+00:00 [queued]>
+[2026-02-12T12:14:21.524+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: mri_daily_report.generate_mri_report scheduled__2026-02-10T15:05:00+00:00 [queued]>
+[2026-02-12T12:14:21.525+0000] {taskinstance.py:2306} INFO - Starting attempt 3 of 3
+[2026-02-12T12:14:21.538+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): generate_mri_report> on 2026-02-10 15:05:00+00:00
+[2026-02-12T12:14:21.543+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'mri_daily_report', 'generate_mri_report', 'scheduled__2026-02-10T15:05:00+00:00', '--job-id', '41', '--raw', '--subdir', 'DAGS_FOLDER/mri_data_daily_dag_/main.py', '--cfg-path', '/tmp/tmp50so_myg']
+[2026-02-12T12:14:21.545+0000] {standard_task_runner.py:91} INFO - Job 41: Subtask generate_mri_report
+[2026-02-12T12:14:21.545+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=872) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-02-12T12:14:21.546+0000] {standard_task_runner.py:64} INFO - Started process 873 to run task
+[2026-02-12T12:14:21.592+0000] {task_command.py:426} INFO - Running <TaskInstance: mri_daily_report.generate_mri_report scheduled__2026-02-10T15:05:00+00:00 [running]> on host 099661f3b442
+[2026-02-12T12:14:21.658+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='pavel' AIRFLOW_CTX_DAG_ID='mri_daily_report' AIRFLOW_CTX_TASK_ID='generate_mri_report' AIRFLOW_CTX_EXECUTION_DATE='2026-02-10T15:05:00+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-02-10T15:05:00+00:00'
+[2026-02-12T12:14:21.658+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-02-12T12:14:21.668+0000] {logging_mixin.py:188} INFO - ❌ Ошибка SQL: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server' : file not found (0) (SQLDriverConnect)")
+[2026-02-12T12:14:21.669+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-02-12T12:14:21.669+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/mri_data_daily_dag_/main.py", line 22, in generate_mri_report
+    conn = pyodbc.connect(connection_string)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyodbc.Error: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server' : file not found (0) (SQLDriverConnect)")
+[2026-02-12T12:14:21.678+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=mri_daily_report, task_id=generate_mri_report, run_id=scheduled__2026-02-10T15:05:00+00:00, execution_date=20260210T150500, start_date=20260212T121421, end_date=20260212T121421
+[2026-02-12T12:14:21.688+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 41 for task generate_mri_report (('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server' : file not found (0) (SQLDriverConnect)"); 873)
+[2026-02-12T12:14:21.719+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 1
+[2026-02-12T12:14:21.731+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-02-12T12:14:21.737+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

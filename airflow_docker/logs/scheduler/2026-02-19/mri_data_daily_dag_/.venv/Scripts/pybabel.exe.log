@@ -1,0 +1,96 @@
+[2026-02-19T08:52:33.779+0000] {processor.py:161} INFO - Started process (PID=1850) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:52:33.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:52:33.781+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.781+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:52:33.787+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.787+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:52:33.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:52:33.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.025 seconds
+[2026-02-19T08:53:07.954+0000] {processor.py:161} INFO - Started process (PID=3555) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:53:07.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:53:07.956+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:07.956+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:53:07.961+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:07.961+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:07.962+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:53:07.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.024 seconds
+[2026-02-19T08:53:40.419+0000] {processor.py:161} INFO - Started process (PID=5257) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:53:40.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:53:40.421+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.421+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:53:40.428+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.428+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:40.428+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:53:40.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.025 seconds
+[2026-02-19T08:54:12.549+0000] {processor.py:161} INFO - Started process (PID=6962) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:54:12.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:54:12.551+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:54:12.556+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.556+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:12.557+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:54:12.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.024 seconds
+[2026-02-19T08:54:44.645+0000] {processor.py:161} INFO - Started process (PID=8672) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:54:44.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:54:44.647+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:54:44.653+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.653+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:44.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:54:44.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.025 seconds
+[2026-02-19T08:55:15.857+0000] {processor.py:161} INFO - Started process (PID=10370) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:55:15.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:55:15.860+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:15.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:55:15.866+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:15.866+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:15.866+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:55:15.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.025 seconds
+[2026-02-19T08:55:47.067+0000] {processor.py:161} INFO - Started process (PID=12079) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:55:47.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:55:47.069+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:47.069+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:55:47.076+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:47.075+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:47.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:55:47.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.025 seconds
+[2026-02-19T08:56:18.845+0000] {processor.py:161} INFO - Started process (PID=13786) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:56:18.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T08:56:18.847+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:18.847+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:56:18.854+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:18.853+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:56:18.854+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T08:56:18.866+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.027 seconds
+[2026-02-19T12:35:07.301+0000] {processor.py:161} INFO - Started process (PID=1839) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:35:07.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:35:07.303+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.303+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:35:07.311+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.310+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:07.311+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:35:07.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.027 seconds
+[2026-02-19T12:35:41.390+0000] {processor.py:161} INFO - Started process (PID=3546) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:35:41.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:35:41.392+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.392+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:35:41.398+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.398+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:41.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:35:41.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.026 seconds
+[2026-02-19T12:36:14.367+0000] {processor.py:161} INFO - Started process (PID=5253) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:36:14.368+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:36:14.369+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:36:14.376+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.376+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:14.377+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:36:14.388+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.026 seconds
+[2026-02-19T12:36:46.439+0000] {processor.py:161} INFO - Started process (PID=6960) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:36:46.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:36:46.442+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:46.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:36:46.449+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:46.449+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:46.449+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:36:46.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.026 seconds
+[2026-02-19T12:37:18.534+0000] {processor.py:161} INFO - Started process (PID=8660) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:37:18.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:37:18.536+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:18.536+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:37:18.543+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:18.543+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:18.543+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:37:18.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.027 seconds
+[2026-02-19T12:37:50.899+0000] {processor.py:161} INFO - Started process (PID=10367) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:37:50.899+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:37:50.901+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:50.901+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:37:50.907+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:50.907+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:50.908+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:37:50.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.026 seconds
+[2026-02-19T12:38:23.430+0000] {processor.py:161} INFO - Started process (PID=12074) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:38:23.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:38:23.432+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:23.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:38:23.439+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:23.439+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:23.440+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:38:23.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.026 seconds
+[2026-02-19T12:38:54.905+0000] {processor.py:161} INFO - Started process (PID=13774) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:38:54.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe for tasks to queue
+[2026-02-19T12:38:54.908+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:54.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:38:54.914+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:54.914+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:54.915+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe
+[2026-02-19T12:38:54.926+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pybabel.exe took 0.026 seconds

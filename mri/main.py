@@ -19,7 +19,7 @@ try:
 
     # Получение вчерашней даты в формате YYYY-MM-DD
     yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
-
+# Запрос query - для выгрузки за вчерашний день, запрос query_dates - для выгрузки по датам
     query = f"""
     SELECT 
         FM_BILL.FM_BILL_ID,
@@ -42,9 +42,32 @@ try:
         AND FM_BILLDET.CANCEL =0
     """
 
+    query_dates = f"""
+        SELECT 
+        FM_BILL.FM_BILL_ID,
+        CONVERT(VARCHAR(10), FM_BILL.BILL_DATE, 120) AS BILL_DATE,
+        FM_SERV.CODE AS SERVICE_CODE,
+        FM_SERV.CODE_AN2 AS SERVICE_NAME,
+        FM_BILLDET.CNT AS SERVICE_COUNT,
+        FM_BILLDET.PRICE_TO_PAY AS PRICE,
+        FM_BILLDET.ORG_FIXED_AMOUNT AS DISCOUNT
+    FROM 
+        FM_BILLDET
+    JOIN 
+        FM_BILL ON FM_BILL.FM_BILL_ID = FM_BILLDET.FM_BILL_ID
+    LEFT JOIN 
+        FM_SERV ON FM_SERV.FM_SERV_ID = FM_BILLDET.FM_SERV_ID
+    WHERE 
+        FM_BILL.FM_ORG_ID = 1
+        AND FM_BILL.BILL_DATE BETWEEN '2026-02-19' AND '2026-02-25'
+        AND FM_SERV.CODE LIKE '18_____'
+        AND FM_BILLDET.CANCEL =0
+        """
+
     print(f"Выполняется запрос за дату: {yesterday}")
 
-    cursor.execute(query)
+#Здесь меняем query или query_dates
+    cursor.execute(query_dates)
     rows = cursor.fetchall()
 
     # Подсчет итогов

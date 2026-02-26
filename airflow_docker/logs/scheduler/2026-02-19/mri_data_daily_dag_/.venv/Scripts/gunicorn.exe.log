@@ -1,0 +1,96 @@
+[2026-02-19T08:52:33.560+0000] {processor.py:161} INFO - Started process (PID=1820) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:52:33.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:52:33.562+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:52:33.569+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.569+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:52:33.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:52:33.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.027 seconds
+[2026-02-19T08:53:07.812+0000] {processor.py:161} INFO - Started process (PID=3525) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:53:07.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:53:07.816+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:07.816+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:53:07.821+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:07.821+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:07.822+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:53:07.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.025 seconds
+[2026-02-19T08:53:40.216+0000] {processor.py:161} INFO - Started process (PID=5227) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:53:40.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:53:40.218+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.218+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:53:40.224+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.224+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:40.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:53:40.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.025 seconds
+[2026-02-19T08:54:12.405+0000] {processor.py:161} INFO - Started process (PID=6933) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:54:12.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:54:12.408+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:54:12.415+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.415+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:12.416+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:54:12.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.025 seconds
+[2026-02-19T08:54:44.445+0000] {processor.py:161} INFO - Started process (PID=8642) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:54:44.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:54:44.447+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:54:44.454+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.453+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:44.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:54:44.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.025 seconds
+[2026-02-19T08:55:15.644+0000] {processor.py:161} INFO - Started process (PID=10340) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:55:15.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:55:15.647+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:15.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:55:15.652+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:15.652+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:15.653+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:55:15.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T08:55:46.866+0000] {processor.py:161} INFO - Started process (PID=12049) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:55:46.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:55:46.868+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:46.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:55:46.874+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:46.874+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:46.875+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:55:46.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.025 seconds
+[2026-02-19T08:56:18.614+0000] {processor.py:161} INFO - Started process (PID=13756) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:56:18.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T08:56:18.617+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:18.617+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:56:18.624+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:18.624+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:56:18.624+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T08:56:18.635+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T12:35:07.085+0000] {processor.py:161} INFO - Started process (PID=1809) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:35:07.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:35:07.088+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.087+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:35:07.094+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.094+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:07.095+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:35:07.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T12:35:41.184+0000] {processor.py:161} INFO - Started process (PID=3516) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:35:41.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:35:41.186+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.186+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:35:41.192+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.192+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:41.193+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:35:41.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T12:36:14.161+0000] {processor.py:161} INFO - Started process (PID=5223) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:36:14.162+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:36:14.163+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.163+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:36:14.170+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.170+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:14.171+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:36:14.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T12:36:46.238+0000] {processor.py:161} INFO - Started process (PID=6930) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:36:46.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:36:46.240+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:46.240+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:36:46.246+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:46.246+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:46.247+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:36:46.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T12:37:18.310+0000] {processor.py:161} INFO - Started process (PID=8630) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:37:18.310+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:37:18.312+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:18.312+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:37:18.319+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:18.319+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:18.319+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:37:18.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.027 seconds
+[2026-02-19T12:37:50.693+0000] {processor.py:161} INFO - Started process (PID=10337) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:37:50.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:37:50.696+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:50.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:37:50.702+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:50.702+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:50.703+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:37:50.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.026 seconds
+[2026-02-19T12:38:22.751+0000] {processor.py:161} INFO - Started process (PID=12044) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:38:22.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:38:22.753+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:22.753+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:38:22.760+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:22.760+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:22.761+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:38:22.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.029 seconds
+[2026-02-19T12:38:54.688+0000] {processor.py:161} INFO - Started process (PID=13744) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:38:54.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe for tasks to queue
+[2026-02-19T12:38:54.690+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:54.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:38:54.700+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:54.700+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:54.700+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe
+[2026-02-19T12:38:54.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/gunicorn.exe took 0.030 seconds

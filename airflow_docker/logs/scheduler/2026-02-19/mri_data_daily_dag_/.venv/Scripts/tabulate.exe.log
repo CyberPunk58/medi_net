@@ -1,0 +1,96 @@
+[2026-02-19T08:52:34.001+0000] {processor.py:161} INFO - Started process (PID=1880) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:52:34.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:52:34.003+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:34.003+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:52:34.010+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:34.010+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:52:34.011+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:52:34.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.026 seconds
+[2026-02-19T08:53:08.096+0000] {processor.py:161} INFO - Started process (PID=3585) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:53:08.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:53:08.099+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:08.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:53:08.105+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:08.105+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:08.105+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:53:08.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.025 seconds
+[2026-02-19T08:53:40.621+0000] {processor.py:161} INFO - Started process (PID=5287) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:53:40.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:53:40.624+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.624+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:53:40.632+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.632+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:40.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:53:40.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.028 seconds
+[2026-02-19T08:54:12.693+0000] {processor.py:161} INFO - Started process (PID=6992) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:54:12.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:54:12.696+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:54:12.702+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.701+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:12.702+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:54:12.713+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.026 seconds
+[2026-02-19T08:54:44.848+0000] {processor.py:161} INFO - Started process (PID=8702) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:54:44.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:54:44.850+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.850+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:54:44.856+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.856+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:44.857+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:54:44.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.025 seconds
+[2026-02-19T08:55:16.080+0000] {processor.py:161} INFO - Started process (PID=10400) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:55:16.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:55:16.082+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:16.082+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:55:16.089+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:16.089+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:16.090+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:55:16.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.027 seconds
+[2026-02-19T08:55:47.270+0000] {processor.py:161} INFO - Started process (PID=12109) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:55:47.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:55:47.273+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:47.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:55:47.280+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:47.280+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:47.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:55:47.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.025 seconds
+[2026-02-19T08:56:19.057+0000] {processor.py:161} INFO - Started process (PID=13816) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:56:19.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T08:56:19.059+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:19.059+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:56:19.066+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:19.066+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:56:19.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T08:56:19.078+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.027 seconds
+[2026-02-19T12:35:07.517+0000] {processor.py:161} INFO - Started process (PID=1869) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:35:07.518+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:35:07.520+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:35:07.527+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.527+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:07.528+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:35:07.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.028 seconds
+[2026-02-19T12:35:41.595+0000] {processor.py:161} INFO - Started process (PID=3576) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:35:41.596+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:35:41.597+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:35:41.604+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.603+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:41.604+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:35:41.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.025 seconds
+[2026-02-19T12:36:14.571+0000] {processor.py:161} INFO - Started process (PID=5283) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:36:14.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:36:14.574+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:36:14.580+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.580+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:14.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:36:14.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.025 seconds
+[2026-02-19T12:36:47.107+0000] {processor.py:161} INFO - Started process (PID=6990) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:36:47.108+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:36:47.110+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:47.109+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:36:47.116+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:47.116+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:47.117+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:36:47.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.027 seconds
+[2026-02-19T12:37:19.197+0000] {processor.py:161} INFO - Started process (PID=8690) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:37:19.198+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:37:19.200+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:19.199+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:37:19.207+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:19.207+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:19.208+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:37:19.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.027 seconds
+[2026-02-19T12:37:51.121+0000] {processor.py:161} INFO - Started process (PID=10397) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:37:51.122+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:37:51.124+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:51.124+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:37:51.131+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:51.131+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:51.132+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:37:51.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.028 seconds
+[2026-02-19T12:38:23.667+0000] {processor.py:161} INFO - Started process (PID=12104) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:38:23.667+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:38:23.669+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:23.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:38:23.676+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:23.676+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:23.676+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:38:23.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.026 seconds
+[2026-02-19T12:38:55.115+0000] {processor.py:161} INFO - Started process (PID=13804) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:38:55.116+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe for tasks to queue
+[2026-02-19T12:38:55.118+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:55.117+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:38:55.124+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:55.124+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:55.125+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe
+[2026-02-19T12:38:55.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/tabulate.exe took 0.026 seconds

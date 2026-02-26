@@ -1,0 +1,96 @@
+[2026-02-19T08:52:33.893+0000] {processor.py:161} INFO - Started process (PID=1865) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:52:33.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:52:33.896+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.895+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:52:33.902+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.902+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:52:33.903+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:52:33.914+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.026 seconds
+[2026-02-19T08:53:08.023+0000] {processor.py:161} INFO - Started process (PID=3570) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:53:08.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:53:08.026+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:08.025+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:53:08.032+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:08.031+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:08.032+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:53:08.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T08:53:40.519+0000] {processor.py:161} INFO - Started process (PID=5272) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:53:40.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:53:40.521+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.521+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:53:40.528+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:40.528+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:40.528+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:53:40.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T08:54:12.621+0000] {processor.py:161} INFO - Started process (PID=6977) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:54:12.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:54:12.624+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.623+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:54:12.628+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.628+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:12.629+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:54:12.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T08:54:44.747+0000] {processor.py:161} INFO - Started process (PID=8687) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:54:44.748+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:54:44.750+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:54:44.756+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:44.756+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:44.757+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:54:44.768+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T08:55:15.975+0000] {processor.py:161} INFO - Started process (PID=10385) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:55:15.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:55:15.977+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:15.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:55:15.985+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:15.985+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:15.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:55:15.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.027 seconds
+[2026-02-19T08:55:47.168+0000] {processor.py:161} INFO - Started process (PID=12094) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:55:47.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:55:47.170+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:47.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:55:47.177+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:47.177+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:47.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:55:47.188+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T08:56:18.955+0000] {processor.py:161} INFO - Started process (PID=13801) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:56:18.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T08:56:18.958+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:18.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:56:18.964+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:18.964+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:56:18.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T08:56:18.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.027 seconds
+[2026-02-19T12:35:07.409+0000] {processor.py:161} INFO - Started process (PID=1854) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:35:07.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:35:07.413+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.413+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:35:07.420+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:07.420+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:07.420+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:35:07.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.027 seconds
+[2026-02-19T12:35:41.491+0000] {processor.py:161} INFO - Started process (PID=3561) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:35:41.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:35:41.493+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:35:41.500+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:41.500+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:41.501+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:35:41.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T12:36:14.470+0000] {processor.py:161} INFO - Started process (PID=5268) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:36:14.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:36:14.473+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:36:14.479+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:14.479+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:14.480+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:36:14.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.025 seconds
+[2026-02-19T12:36:47.004+0000] {processor.py:161} INFO - Started process (PID=6975) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:36:47.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:36:47.007+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:47.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:36:47.013+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:47.013+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:47.014+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:36:47.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.026 seconds
+[2026-02-19T12:37:19.092+0000] {processor.py:161} INFO - Started process (PID=8675) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:37:19.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:37:19.094+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:19.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:37:19.101+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:19.101+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:19.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:37:19.113+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.026 seconds
+[2026-02-19T12:37:51.011+0000] {processor.py:161} INFO - Started process (PID=10382) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:37:51.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:37:51.013+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:51.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:37:51.020+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:51.020+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:51.021+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:37:51.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.027 seconds
+[2026-02-19T12:38:23.539+0000] {processor.py:161} INFO - Started process (PID=12089) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:38:23.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:38:23.543+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:23.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:38:23.553+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:23.552+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:23.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:38:23.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.039 seconds
+[2026-02-19T12:38:55.010+0000] {processor.py:161} INFO - Started process (PID=13789) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:38:55.011+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe for tasks to queue
+[2026-02-19T12:38:55.013+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:55.012+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:38:55.019+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:55.019+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:55.020+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe
+[2026-02-19T12:38:55.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/pygmentize.exe took 0.026 seconds

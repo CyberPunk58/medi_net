@@ -1,0 +1,96 @@
+[2026-02-19T08:52:33.290+0000] {processor.py:161} INFO - Started process (PID=1780) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:52:33.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:52:33.292+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:52:33.299+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:52:33.298+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:52:33.299+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:52:33.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.026 seconds
+[2026-02-19T08:53:07.623+0000] {processor.py:161} INFO - Started process (PID=3485) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:53:07.624+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:53:07.626+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:07.625+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:53:07.631+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:07.631+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:07.632+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:53:07.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.025 seconds
+[2026-02-19T08:53:39.964+0000] {processor.py:161} INFO - Started process (PID=5187) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:53:39.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:53:39.966+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:39.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:53:39.973+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:53:39.973+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:53:39.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:53:39.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.026 seconds
+[2026-02-19T08:54:12.203+0000] {processor.py:161} INFO - Started process (PID=6894) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:54:12.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:54:12.205+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:54:12.213+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:12.212+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:12.213+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:54:12.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.025 seconds
+[2026-02-19T08:54:43.688+0000] {processor.py:161} INFO - Started process (PID=8600) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:54:43.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:54:43.690+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:43.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:54:43.696+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:54:43.696+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:54:43.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:54:43.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.024 seconds
+[2026-02-19T08:55:14.958+0000] {processor.py:161} INFO - Started process (PID=10300) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:55:14.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:55:14.961+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:14.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:55:14.968+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:14.968+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:14.969+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:55:14.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.026 seconds
+[2026-02-19T08:55:46.106+0000] {processor.py:161} INFO - Started process (PID=12007) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:55:46.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:55:46.108+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:46.108+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:55:46.113+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:55:46.113+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:55:46.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:55:46.125+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.024 seconds
+[2026-02-19T08:56:17.855+0000] {processor.py:161} INFO - Started process (PID=13714) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:56:17.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T08:56:17.857+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:17.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:56:17.865+0000] {logging_mixin.py:188} INFO - [2026-02-19T08:56:17.865+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T08:56:17.866+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T08:56:17.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.027 seconds
+[2026-02-19T12:35:06.758+0000] {processor.py:161} INFO - Started process (PID=1767) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:35:06.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:35:06.761+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:06.760+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:35:06.766+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:06.766+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:06.767+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:35:06.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.025 seconds
+[2026-02-19T12:35:40.944+0000] {processor.py:161} INFO - Started process (PID=3474) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:35:40.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:35:40.946+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:40.946+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:35:40.954+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:35:40.954+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:35:40.955+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:35:40.966+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.026 seconds
+[2026-02-19T12:36:13.901+0000] {processor.py:161} INFO - Started process (PID=5183) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:36:13.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:36:13.904+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:13.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:36:13.910+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:13.910+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:13.910+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:36:13.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.025 seconds
+[2026-02-19T12:36:45.908+0000] {processor.py:161} INFO - Started process (PID=6888) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:36:45.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:36:45.911+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:45.911+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:36:45.921+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:36:45.921+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:36:45.922+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:36:45.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.036 seconds
+[2026-02-19T12:37:18.010+0000] {processor.py:161} INFO - Started process (PID=8588) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:37:18.011+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:37:18.012+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:18.012+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:37:18.019+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:18.019+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:18.020+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:37:18.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.027 seconds
+[2026-02-19T12:37:49.965+0000] {processor.py:161} INFO - Started process (PID=10297) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:37:49.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:37:49.968+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:49.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:37:49.975+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:37:49.974+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:37:49.975+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:37:49.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.028 seconds
+[2026-02-19T12:38:22.409+0000] {processor.py:161} INFO - Started process (PID=12002) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:38:22.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:38:22.411+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:22.411+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:38:22.418+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:22.418+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:22.419+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:38:22.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.028 seconds
+[2026-02-19T12:38:53.920+0000] {processor.py:161} INFO - Started process (PID=13702) to work on /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:38:53.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe for tasks to queue
+[2026-02-19T12:38:53.922+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:53.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:38:53.928+0000] {logging_mixin.py:188} INFO - [2026-02-19T12:38:53.928+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2026-02-19T12:38:53.929+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe
+[2026-02-19T12:38:53.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mri_data_daily_dag_/.venv/Scripts/connexion.exe took 0.026 seconds
